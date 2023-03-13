@@ -1,4 +1,4 @@
-# excel_parser
+# Тестовое задание excel_parser
 
 1. Клонировать репозиторий.
 
@@ -6,10 +6,10 @@
     `python -m venv name`
 
 3. Активировать виртуальное окружение командой:
-    -Для Windows
-        `.\venv\Scripts\activate`
-    -Для Linux
-        `source venv/bin/activate`
+Win
+    `.\venv\Scripts\activate`
+Linux
+    `source venv/bin/activate`
 
 4. Обновить зависимости:
     `pip install --upgrade pip`
@@ -23,6 +23,4 @@
 7. Переходим в интерфейс docs по адресу:
     http://127.0.0.1:8000/docs
 
-8. После заверешения использования программы
--остановить работу CTRL+C
--отключить виртуальное окружение: `deactivate`
+8. После заверешения использования программы: отключить виртуальное окружение: `deactivate`
